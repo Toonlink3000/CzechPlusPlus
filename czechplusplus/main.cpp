@@ -11,7 +11,9 @@ celé hlavní(celé poèet, konst písmeno* argumenty)
 {
 	výstupf("Ahoj svìte\n");
 
-	loghod cyklus = pravda;
+	loghod cyklus je pravda;
+	celé nìco je 5;
+	plovoucí jiného je 100.0f;
 
 	dokudje(cyklus rovno pravda)
 	{

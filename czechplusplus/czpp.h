@@ -10,6 +10,8 @@
 #define pro for
 #define dokudje while
 
+#define je =
+
 #define pravda true
 #define nepravda false
 
